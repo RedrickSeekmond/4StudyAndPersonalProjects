@@ -1,0 +1,6 @@
+C:\Users\BlackWolf\source\repos\ShapeAreaEstimator\ShapeAreaEstimator\bin\Debug\ShapeAreaEstimator.dll
+C:\Users\BlackWolf\source\repos\ShapeAreaEstimator\ShapeAreaEstimator\bin\Debug\ShapeAreaEstimator.pdb
+C:\Users\BlackWolf\source\repos\ShapeAreaEstimator\ShapeAreaEstimator\obj\Debug\ShapeAreaEstimator.csprojAssemblyReference.cache
+C:\Users\BlackWolf\source\repos\ShapeAreaEstimator\ShapeAreaEstimator\obj\Debug\ShapeAreaEstimator.csproj.CoreCompileInputs.cache
+C:\Users\BlackWolf\source\repos\ShapeAreaEstimator\ShapeAreaEstimator\obj\Debug\ShapeAreaEstimator.dll
+C:\Users\BlackWolf\source\repos\ShapeAreaEstimator\ShapeAreaEstimator\obj\Debug\ShapeAreaEstimator.pdb
